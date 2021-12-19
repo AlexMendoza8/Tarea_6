@@ -1,3 +1,6 @@
+#Desarrollado en colaboración entre el compañero Guillermo Arjona y mi persona
+
+
 from flask import Flask
 from os import path
 import redis
